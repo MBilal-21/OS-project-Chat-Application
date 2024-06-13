@@ -1,4 +1,4 @@
-<h2>This is my operating system class project to make an chat application between server and client using c++ with winsock2.h library between two terminal where one terminal act as a server and other act as a client if you want to run it you have to first run the server file and then run the client file </h2>
+<h2>This is my operating system group project to make an chat application between server and client using c++ with winsock2.h library between two terminal where one terminal act as a server and other act as a client if you want to run it you have to first run the server file and then run the client file </h2>
 <br><br>
 To run the server.cpp and Client.cpp file 
 <br><br>
